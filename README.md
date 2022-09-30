@@ -1,6 +1,6 @@
 # MyPersonalWebsite
 This is the beginning of my personal website.
-========================================================================================================================
+=====================================================================================
 
 9/29/22
 I created this branch to experiment with the concept of a branch in github. I also wanted to explain more about how this repo came to be. 
@@ -12,4 +12,4 @@ I created this repo locally on my laptop, using git, and then pushed it to githu
 
 So, this repo is mainly an experiment thus far. I will update this readme.md as I clarify the purpose of this project. 
 
-========================================================================================================================
+=====================================================================================
